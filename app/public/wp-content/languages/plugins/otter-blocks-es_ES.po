@@ -1,0 +1,89 @@
+# Translation of Plugins - Gutenberg Blocks and Template Library by Otter - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Gutenberg Blocks and Template Library by Otter - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-17 06:37:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Gutenberg Blocks and Template Library by Otter - Development (trunk)\n"
+
+#: class-otter-blocks.php:201
+msgid "Anonymous data tracking object."
+msgstr "Objeto de seguimiento anónimo de datos."
+
+#: class-otter-blocks.php:180
+msgid "Menu Icons module allows to add icons to navigation menu items in Block Editor."
+msgstr "El módulo de iconos de menú permite añadir iconos a los elementos del menú de navegación en el editor de bloques."
+
+#: class-otter-blocks.php:409
+msgid "Styles deleted."
+msgstr "Estilos borrados."
+
+#: class-otter-blocks.php:393
+msgid "Sorry, the directory doesn't exist."
+msgstr "Lo siento, el directorio no existe."
+
+#: class-otter-blocks.php:382
+msgid "Sorry, the filesystem isn't writeable."
+msgstr "Lo siento, no se puede escribir en el sistema de archivos."
+
+#: class-otter-blocks.php:191
+msgid "Become a contributor by opting in to our anonymous data tracking. We guarantee no sensitive data is collected."
+msgstr "Conviértete en colaborador apuntándote a nuestro seguimiento de datos anónimo. Garantizamos que no recogemos datos sensibles."
+
+#: otter-blocks.php:62
+msgid "Settings"
+msgstr "Ajustes"
+
+#: class-otter-blocks.php:169
+msgid "Blocks Animation module allows to add CSS animations to each block in Block Editor."
+msgstr "El módulo Blocks Animation permite añadir animaciones CSS a cada bloque en el editor de bloques."
+
+#: class-otter-blocks.php:158
+msgid "Custom CSS module allows to add custom CSS to each block in Block Editor."
+msgstr "El módulo Personalizar CSS permite añadir CSS personalizado a cada bloque en el Editor de Bloques"
+
+#: class-otter-blocks.php:147
+msgid "Show tour for Otter."
+msgstr "Mostrar el tour de Otter."
+
+#: class-otter-blocks.php:136
+msgid "Redirect on new install."
+msgstr "Redireccionar en una nueva instalación."
+
+#. Plugin Name of the plugin
+msgid "Gutenberg Blocks and Template Library by Otter"
+msgstr "Gutenberg Blocks and Template Library by Otter"
+
+#: class-otter-blocks.php:46
+msgid "Blocks for Gutenberg"
+msgstr "Bloques para Gutenberg"
+
+#: class-otter-blocks.php:45 class-otter-blocks.php:114
+#: class-otter-blocks.php:115
+msgid "Otter"
+msgstr "Otter"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Description of the plugin
+msgid "Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages."
+msgstr "Crea hermosas y atractivas entradas, páginas y páginas de destino con Gutenberg Blocks and Template Library by Otter. Otter viene con docenas de bloques de Gutenberg que son todo lo que necesitas para crear bonitas páginas."
+
+#. Plugin URI of the plugin
+msgid "https://themeisle.com/plugins/otter-blocks"
+msgstr "https://themeisle.com/plugins/otter-blocks"
+
+#: class-otter-blocks.php:470 class-otter-blocks.php:482
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas ¿eh?"
